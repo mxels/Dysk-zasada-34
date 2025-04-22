@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<application xmlns="http://ns.adobe.com/air/application/24.0">
+	<id>ZajeciaKomputeroweKlasa1</id>
+	<versionNumber>1.0</versionNumber>
+	<filename>Start</filename>
+	<name>ZajKompKlasa1</name>
+	<copyright>Nowa Era</copyright>
+	<initialWindow>
+		  <title>ZajKompKlasa1</title>
+		  <content>ZajKompKlasa1.ne</content>
+		  <systemChrome>none</systemChrome>
+		  <transparent>false</transparent>
+		  <visible>true</visible>
+		  <minimizable>true</minimizable>
+		  <maximizable>true</maximizable>
+		  <renderMode>auto</renderMode>
+		  <resizable>true</resizable>
+	</initialWindow>
+	<supportedProfiles>extendedDesktop </supportedProfiles>
+	
+
+  
+
+  
+<!-- More options: http://help.adobe.com/pl_PL/air/build/WSfffb011ac560372f2fea1812938a6e463-8000.html-->
+	<icon>
+		  <image16x16>icon/icon_16.png</image16x16>
+		  <image32x32>icon/icon_32.png</image32x32>
+		  <image48x48>icon/icon_48.png</image48x48>
+		  <image128x128>icon/icon_128.png</image128x128>
+	</icon>
+	<supportedLanguages>pl</supportedLanguages>
+	<fileTypes>
+		  <fileType>
+			  <name>doc</name>
+			  <extension>doc</extension>
+			  <contentType>application/msword</contentType>
+		</fileType>
+		  <fileType>
+			  <name>rtf</name>
+			  <extension>rtf</extension>
+			  <contentType>application/rtf</contentType>
+		</fileType>
+	</fileTypes>
+</application>

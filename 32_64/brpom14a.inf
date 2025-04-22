@@ -1,0 +1,165 @@
+;=======================================================================
+;  Brother Port Setup File
+;  Copyright (c)  2013 Brother Industries,LTD.
+;  FileName   :   brpom14a.inf
+;  Function   :   Port Driver
+;  I/F        :   USB
+;  OS         :   Windows XP / Vista / 7 / 8 / 8.1 / 10 / 11
+;  Model      : MFC-1910W series
+;             : MFC-1910NW series
+;             : MFC-1919NW
+=======================================================================
+
+[Version]
+Signature  = "$Windows NT$"
+Class      = Ports
+ClassGUID  = {4d36e978-e325-11ce-bfc1-08002be10318}
+Provider   = Brother
+DriverPackageType       = PlugAndPlay
+DriverPackageDisplayName = "MFC-1910W series, MFC-1910NW series, MFC-1919NW"
+DriverVer   = 11/14/2022, 1.0.2.1
+CatalogFile = brpom14a.cat
+
+; ========== Manufacturer/Models sections ===========
+
+[Manufacturer]
+Brother = BrDrv_WinUSB,NTx86,NTamd64.6.0,NTx86.6.1,NTamd64.6.1
+
+; XP/Vista 32bit
+[BrDrv_WinUSB.NTx86]
+"Brother MFC-1910W series" = USB_Install, USB\VID_04F9&PID_035D&MI_02
+"Brother MFC-1910NW series" = USB_Install, USB\VID_04F9&PID_035E&MI_02
+"Brother MFC-1919NW" = USB_Install, USB\VID_04F9&PID_0361&MI_02
+
+; Vista 64bit
+[BrDrv_WinUSB.NTamd64.6.0]
+"Brother MFC-1910W series" = USB_Install, USB\VID_04F9&PID_035D&MI_02
+"Brother MFC-1910NW series" = USB_Install, USB\VID_04F9&PID_035E&MI_02
+"Brother MFC-1919NW" = USB_Install, USB\VID_04F9&PID_0361&MI_02
+
+; Windows 7/8 or later 32bit
+[BrDrv_WinUSB.NTx86.6.1]
+"Brother MFC-1910W series" = USB_Install1009, USB\VID_04F9&PID_035D&MI_02
+"Brother MFC-1910NW series" = USB_Install1009, USB\VID_04F9&PID_035E&MI_02
+"Brother MFC-1919NW" = USB_Install1009, USB\VID_04F9&PID_0361&MI_02
+
+; Windows 7/8 or later 64bit
+[BrDrv_WinUSB.NTamd64.6.1]
+"Brother MFC-1910W series" = USB_Install1009, USB\VID_04F9&PID_035D&MI_02
+"Brother MFC-1910NW series" = USB_Install1009, USB\VID_04F9&PID_035E&MI_02
+"Brother MFC-1919NW" = USB_Install1009, USB\VID_04F9&PID_0361&MI_02
+
+; =================== Installation ===================
+
+;[1]
+[USB_Install]
+Include=winusb.inf
+Needs=WINUSB.NT
+AddReg=USB_Install_Reg
+
+;[1']
+[USB_Install1009]
+Include=winusb.inf
+Needs=WINUSB.NT
+AddReg=USB_Install_Reg
+
+;-----------------------------------------
+
+[USB_Install_Reg]
+HKR,,PortSubClassOther,1,01
+
+;[2]
+[USB_Install.Services]
+Include=winusb.inf
+AddService=WinUSB,0x00000002,WinUSB_ServiceInstall
+
+[USB_Install1009.Services]
+Include=winusb.inf
+AddService=WinUSB,0x00000002,WinUSB_ServiceInstall
+
+;[3]
+[WinUSB_ServiceInstall]
+DisplayName     = %BrDrv_SvcDesc%
+ServiceType     = 1
+StartType       = 3
+ErrorControl    = 1
+ServiceBinary   = %12%\WinUSB.sys
+
+;[4]
+[USB_Install.Wdf]
+KmdfService=WINUSB, WinUsb_Install
+
+[USB_Install1009.Wdf]
+KmdfService=WINUSB, WinUsb_Install1009
+
+
+[WinUSB_Install]
+KmdfLibraryVersion=1.5
+
+[WinUSB_Install1009]
+KmdfLibraryVersion=1.9
+
+;[5]
+[USB_Install.HW]
+AddReg=Dev_AddReg
+
+[USB_Install1009.HW]
+AddReg=Dev_AddReg
+
+[Dev_AddReg]
+HKR,,DeviceInterfaceGUIDs,0x10000,"{1EA0A2DA-6162-41EA-861A-E840C3FFF0E2}"
+
+;[6]
+[USB_Install.CoInstallers]
+AddReg=CoInstallers_AddReg
+CopyFiles=CoInstallers_CopyFiles
+
+[USB_Install1009.CoInstallers]
+AddReg=CoInstallers1009_AddReg
+CopyFiles=CoInstallers1009_CopyFiles
+
+[CoInstallers_AddReg]
+HKR,,CoInstallers32,0x00010000,"WdfCoInstaller01005.dll,WdfCoInstaller","WinUSBCoInstaller.dll"
+
+[CoInstallers_CopyFiles]
+WinUSBCoInstaller.dll
+WdfCoInstaller01005.dll
+
+[CoInstallers1009_AddReg]
+HKR,,CoInstallers32,0x00010000,"WdfCoInstaller01009.dll","WdfCoInstaller","WinUSBCoInstaller2.dll"
+
+[CoInstallers1009_CopyFiles]
+WinUSBCoInstaller2.dll
+WdfCoInstaller01009.dll
+
+[DestinationDirs]
+CoInstallers_CopyFiles=11
+CoInstallers1009_CopyFiles=11
+DefaultDestDir = 12
+
+; ================= Source Media Section =====================
+;[7]
+
+[SourceDisksNames]
+1 = %DISK_NAME%,,,\x86
+2 = %DISK_NAME%,,,\amd64
+
+[SourceDisksFiles.x86]
+WinUSBCoInstaller.dll   = 1
+WdfCoInstaller01005.dll = 1
+WinUSBCoInstaller2.dll  = 1
+WdfCoInstaller01009.dll = 1
+
+[SourceDisksFiles.amd64]
+WinUSBCoInstaller.dll   = 2
+WdfCoInstaller01005.dll = 2
+WinUSBCoInstaller2.dll  = 2
+WdfCoInstaller01009.dll = 2
+
+
+; =================== Strings ===================
+
+[Strings]
+BrDrv_SvcDesc="Brother WinUSB Port Driver"
+DISK_NAME="Install Disk"
+

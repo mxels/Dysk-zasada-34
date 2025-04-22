@@ -1,0 +1,165 @@
+<html>	znacznik otwierający stronę
+</html>	znacznik zamykający stronę
+<head>   </head>
+<meta http-equiv=”Content-Language” content=”pl”><meta http-equiv=”Content-Type” content=”text/html; charset=windows-1250”>
+Wpis aby poprawnie wyświetlano polskie znaki
+
+<body>	</body>    początek i koniec bloku z treścią główną strony
+I Zmiana kolorów tła strony
+1) przez podanie koloru	
+<body bgcolor=”kolor”>	<body bgcolor=gold >
+2) przez  podanie składowych RGB (3 podstawowych kolorów)	
+<bodybgcolor=”#99cccc”>
+3) podanie ścieżki dostępu do obrazka
+<body background=”ściezka dostępu do obrazka”>
+4) tło obrazkowe jest nieruchome podczas przewijania
+<body background=”ściezka dostępu do obrazka” bgproperties=”fixe”>
+
+II Szerokość marginesów.
+<body leftmargin=”x1”  rightmargin=”x2”  topmargin=”y1” bottommargin=”y2”>
+X1 szerokość  lewego marginesu  x2 szerokość prawego marginesu
+Y1 wysokość górnego marginesu  y2 wysokość dolnego marginesu
+III Formatowanie tekstu lub czcionki
+1. Krój czcionki
+<font face=”nazwa kroju czcionki”> treść </font>
+2. Wielkość czcionki
+<font size=”x”> treść </font>
+X – przybiera wartości od 1 do 7 (standard3)
+
+3. Kolor czcionki
+<font color=”kolor”> treść </font>
+
+4. Inne parametry czcionki
+<tt> tekst pisany czcionką o stałej szerokości </tt>
+<b> tekst pogrubiony </b>
+<i> tekst pochylony</i>
+<u> tekst podkreślony <u>
+<sup> tekst w formie indeksu górnego </sup>
+<sub> tekst w formie indeksu dolnego <sub/>
+<big> zwiększenie czcionki o jeden stopień <big/>
+<s> przekreślenie tekstu <s/>
+Komendy można łączyć np. 
+<font size=”5” face=”Arial” color=”green” </font>
+
+5. Formatowanie tekstu na stronie
+<p align=”justify”> tekst </p>			justowanie tekstu
+<p align=”center”> tekst </p>			wyśrodkowanie tekstu
+<p align=”left”> tekst </p>			wyrównanie do lewej
+<p align=”right”> tekst </p>			wyrównanie do prawej
+Polecenie <p align=”center”>  można zastąpić krótszym  <center>
+<br>   przeniesienie tekstu do drugiego wiersza
+<p>  wprowadzenie dodatkowego odstępu między wierszami
+&NBP;  wprowadzenie dodatkowego odstępu (spacji) w wierszu
+
+ IV. Animacja marquee (dla tekstu) – poruszanie tekstu po ekranie.
+<marquee > tu wpisz tekst</marquee>		(zapis standardowy)
+Bardziej zaawansowany (lepsze panowanie nad tekstem)
+<marquee behavior=”typ”> tu wpisz tekst</marquee>
+Typy:
+scroll – tekst przesuwa się od prawej do lewej
+alternate – tekst przesuwa się od prawej do lewej a następnie odbija się i powraca
+sidle  - tekst przesuwa się od prawej do lewej tylo raz, a później się zatrzyma i pozostanie nieruchomy.
+
+Kierunek przesuwania realizuje się za pomocą parametru
+<marquee direction=”kierunek”> tu wpisz tekst</marquee>
+Kierunek:
+left – tekst będzie się przesuwał w lewo
+right – tekst będzie się przesuwał w prawo
+up – przesuwanie w górę
+down – przesuwanie w dół
+Kolor tła na jakim się przesuwa
+<marquee bgcolor=”kolor”> tu wpisz tekst</marquee>
+Rozmiar na ekranie
+<marquee width=”x” height=”y”> tu wpisz tekst</marquee>
+IIość powtórzeń
+<marquee loop=”k”> tu wpisz tekst</marquee>
+„k” – ilość powtórzeń
+Szybkość przesuwania się tekstu
+<marquee scrollamount=”x” > tu wpisz tekst</marquee>
+X –dowolna liczba, im większa tym szybkość większa
+Efekty marquee można łączyć
+<marquee scrollamount=”x” width=”x” height=”y” direction=”kierunek” bgcolor=”kolor” behavior=”typ” > tu wpisz tekst</marquee>
+V. Wstawianie kreski poziomej
+<hr> - wstawianie kreski poziomej
+<hr width=50%>  linia na połowę ekranu
+<hr width=”250”> linia o długości 250 pikseli
+<hr align=”left”> linia od lewej strony ekranu
+ <hr align=”center”> linia umieszczona centralnie
+<hr align=”right”> linia od prawej strony ekranu
+<hr noshade> linia bez cienia
+<hr size=”20”> linia o grubości 20 pikseli
+<hr color=”kolor x”> linia w kolorze x
+Atrybuty określające styl linii można łączyć
+<hr widht=75% size=”30” color=”red”>
+
+VI. Lista numerowana znaczniki <ol> oraz <li>
+Np.
+<ol>
+<li> pierwszy element listy </li>
+<li> drugi element listy </li>
+<li> trzeci element listy </li>
+<ol>
+<li> pierwszy element pierwszej podlisty </li>
+<li> drugi element pierwszej podlisty </li>
+<li> trzeci element pierwszej podlisty </li>
+</ol> </ol>
+Jeśli wewnątrz znacznika <ol> dopiszesz:
+type=”A” to w wyliczeniu wystąpią litery A,B,C
+type=”a” to w wyliczeniu wystąpią litery a,b,c
+type=”I” to w wyliczeniu wystapią cyfry I,II,III
+type=”1” to w wyliczeniu wystąpią cyfry 1,2,3
+VII. Lista wypunktowana znaczniki <ul> oraz <li>
+Np.
+<ul>
+<li> pierwszy element listy </li>
+<li> drugi element listy </li>
+<ul>
+<li> pierwszy element pierwszej podlisty </li>
+<li> drugi element pierwszej podlisty </li>
+</ul> </ul>
+VIII. Grafika na stronie
+<img src=”ścieżka dostępu i nazwa pliku”>  za pomocą tego znacznika można umieszczać na stronie www dowolną grafikę
+parametr  border=”0”  dodajemy aby zlikwidować ramkę dookoła rysunku
+<img src=”rys1.gif” border=”0”>
+Położenie grafiki na stronie realizujemy na 3 sposoby
+- wyśrodkowanie <p align=”center”>grafika</p>
+- wyrównanie do lewej   <p align=”left”>grafika</p>
+- wyrównanie do prawej   <p align=”right”>grafika</p>
+Parametry dodatkowe:
+- zmiana rozmiarów grafiki
+<img src=”nazwa pliku” width=”x” height=”y”>
+x – szerokość y – wysokość w pikselach
+- wprowadzenie objaśnienia, tytułu lub podpisu do grafiki
+<img src=”nazwa pliku” width=”x” height=”y” alt=”tekst objaśnienia”>
+- obrazek jako przycisk uruchamiający powiększenie tego samego obrazka na dodatkowej stronie www.
+<a href=”nazwa pliku” target=”newwindow”><img src=”nazwa pliku” width=”x” height=”y”></a>
+Wzajemne położenie tekstu i obrazu
+- wyrównanie górnej krawędzi obrazu względem górnej krawędzi linii tekstu lub obrazu
+<img src=”obrazek.jpg” align=”top”>
+- środek obrazu leży dokładnie po linii tekstu
+<img src=”obrazek.jpg” align=”middle”>
+- wyrównuje dolną krawędź obrazu względem dolnej krawędzi linii tekstu lub obrazu
+<img src=”obrazek.jpg” align=”bottom”>
+
+
+
+
+
+
+
+IX. Odsyłacze
+- odsyłacz z wykorzystaniem opisu słownego do szybkiego wywołania strony www
+<a href=”adres intrenetowy strony”>opis słowny</a>
+Np. 
+<a href=”http://www.wp.pl”>To jest odsyłacz do Wirtualnej Polski</a>
+
+- odsyłacz z wykorzystaniem grafiki do szybkiego wywołania strony www
+<a href=”adres internetowy strony”><img src=”nazwa pliku”></a>
+Np.
+<a href=”http://www.wp.pl”><img src=”obraz_wp.jpg”></a>
+
+
+- odsyłacz z wykorzystaniem opisu słownego do szybkiego wysyłania poczty do prezentującego daną stronę WWW
+<a href=”mailto:adres poczt”>opis słowny</a>
+Np.
+<a href=”mailto:kolega@wp.pl”>Napisz do mnie</a>

@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<sieciomat>
+	<kategoria typ="dziecko do 7 lat">
+		<pytanie poprawna_odpowiedz="2">
+			<tresc><![CDATA[Czy można w internecie podawać swoje imię i nazwisko?]]></tresc>
+			<odpowiedz><![CDATA[Tak]]></odpowiedz>
+			<odpowiedz><![CDATA[Nie]]></odpowiedz>
+		</pytanie>
+		<pytanie poprawna_odpowiedz="1">
+			<tresc><![CDATA[Co powinieneś zrobić, gdy otworzy Ci się strona ze zdjęciami nie dla dzieci?]]></tresc>
+			<odpowiedz><![CDATA[Szybko zamyknąć]]></odpowiedz>
+			<odpowiedz><![CDATA[obejrzeć uważnie]]></odpowiedz>
+		</pytanie>
+		<pytanie poprawna_odpowiedz="1">
+			<tresc><![CDATA[Co robisz, gdy dostajesz e-maila od nieznajomego?]]></tresc>
+			<odpowiedz><![CDATA[Nie otwieram, tylko szybko kasuję]]></odpowiedz>
+			<odpowiedz><![CDATA[Otwieram i czytam]]></odpowiedz>
+		</pytanie>
+		<pytanie poprawna_odpowiedz="2">
+			<tresc><![CDATA[Co to jest nick?]]></tresc>
+			<odpowiedz><![CDATA[Imię psa policyjnego]]></odpowiedz>
+			<odpowiedz><![CDATA[Internetowa ksywka]]></odpowiedz>
+		</pytanie>
+		<pytanie poprawna_odpowiedz="1">
+			<tresc><![CDATA[Co to jest SPAM?]]></tresc>
+			<odpowiedz><![CDATA[Internetowe śmieci]]></odpowiedz>
+			<odpowiedz><![CDATA[Specjalny Promień Atakujący Miasto]]></odpowiedz>
+		</pytanie>
+		<pytanie poprawna_odpowiedz="2">
+			<tresc><![CDATA[W jakim miejscu najbezpieczniej trzymać komputerowe hasła?]]></tresc>
+			<odpowiedz><![CDATA[Na pulpicie komputera]]></odpowiedz>
+			<odpowiedz><![CDATA[W głowie]]></odpowiedz>
+		</pytanie>
+		<pytanie poprawna_odpowiedz="2">
+			<tresc><![CDATA[Co to jest program antywirusowy?]]></tresc>
+			<odpowiedz><![CDATA[Program usuwający wszystkie dane z komputera]]></odpowiedz>
+			<odpowiedz><![CDATA[Program blokujący i usuwający wirusy]]></odpowiedz>
+		</pytanie>
+		<pytanie poprawna_odpowiedz="1">
+			<tresc><![CDATA[Który z poniższych loginów jest bezpieczny?]]></tresc>
+			<odpowiedz><![CDATA[kwiatuszek123]]></odpowiedz>
+			<odpowiedz><![CDATA[kasia.kwiatkowska]]></odpowiedz>
+		</pytanie>
+		<pytanie poprawna_odpowiedz="1">
+			<tresc><![CDATA[Czy zawsze możemy być pewni z kim rozmawiamy przez internet?]]></tresc>
+			<odpowiedz><![CDATA[Nie]]></odpowiedz>
+			<odpowiedz><![CDATA[Tak]]></odpowiedz>
+                </pytanie>
+		<pytanie poprawna_odpowiedz="2">
+			<tresc><![CDATA[Czy możemy wierzyć wszystkim ludziom poznanym w sieci?]]></tresc>
+			<odpowiedz><![CDATA[Tak ]]></odpowiedz>
+			<odpowiedz><![CDATA[Nie]]></odpowiedz>      
+                </pytanie>
+		<pytanie poprawna_odpowiedz="1">
+			<tresc><![CDATA[Czy można podawać w internecie swój adres domowy?]]></tresc>
+			<odpowiedz><![CDATA[Nie ]]></odpowiedz>
+			<odpowiedz><![CDATA[Tak]]></odpowiedz>       
+                </pytanie>
+		<pytanie poprawna_odpowiedz="2">
+			<tresc><![CDATA[Którą z poniższych informacji możemy bezpiecznie podać w internecie?]]></tresc>
+			<odpowiedz><![CDATA[Numer telefonu ]]></odpowiedz>
+			<odpowiedz><![CDATA[Pseudonim]]></odpowiedz> 
+                </pytanie>
+		<pytanie poprawna_odpowiedz="1">
+			<tresc><![CDATA[Czy powinniśmy podać koledze swoje hasło internetowe?]]></tresc>
+			<odpowiedz><![CDATA[Nie ]]></odpowiedz>
+			<odpowiedz><![CDATA[Tak]]></odpowiedz>    
+                </pytanie>
+		<pytanie poprawna_odpowiedz="1">
+			<tresc><![CDATA[Czy można spotykać się z osobami znanymi wyłąnie z sieci?]]></tresc>
+			<odpowiedz><![CDATA[Nie]]></odpowiedz>
+			<odpowiedz><![CDATA[Tak]]></odpowiedz>
+                </pytanie>
+		<pytanie poprawna_odpowiedz="2">
+			<tresc><![CDATA[Do czego służy internet? ]]></tresc>
+			<odpowiedz><![CDATA[Wyłącznie do zabawy]]></odpowiedz>
+			<odpowiedz><![CDATA[Do zabawy i nauki]]></odpowiedz>
+                </pytanie>
+		<pytanie poprawna_odpowiedz="2">
+			<tresc><![CDATA[Czy hasło użyte w internecie powinno być krótkie i łatwe do zapamiętania?]]></tresc>
+			<odpowiedz><![CDATA[Tak, hasło powinno być króciutkie np.: azor]]></odpowiedz>
+			<odpowiedz><![CDATA[Nie, hasło powinno być długie i musi zawierać duże i małe litery oraz cyfry np.: !xCv32Dd.]]></odpowiedz>
+                </pytanie>
+		<pytanie poprawna_odpowiedz="1">
+			<tresc><![CDATA[Jeżeli ktoś nas wystraszy w internecie, powinniśmy powiedzieć o tym rodzicom?]]></tresc>
+			<odpowiedz><![CDATA[Tak, rodzice zawsze nam pomogą]]></odpowiedz>
+			<odpowiedz><![CDATA[Nie, rodzice nie muszą nic wiedzieć]]></odpowiedz>
+		</pytanie>
+	</kategoria>
+	<kategoria typ="dziecko 7-12 lat">
+	        <pytanie poprawna_odpowiedz="3">
+			<tresc><![CDATA[Jakie informacje możemy bezpiecznie podać w internecie?]]></tresc>
+			<odpowiedz><![CDATA[Imię]]></odpowiedz>
+			<odpowiedz><![CDATA[Nazwisko]]></odpowiedz>
+			<odpowiedz><![CDATA[Pseudonim]]></odpowiedz>
+			<odpowiedz><![CDATA[Adres domowy]]></odpowiedz>
+		</pytanie>
+		<pytanie poprawna_odpowiedz="1">
+			<tresc><![CDATA[Według zasad Netykiety niegrzecznie jest pisać w następujący sposób:]]></tresc>
+			<odpowiedz><![CDATA[CZESC, TU SPOCIAK!]]></odpowiedz>
+			<odpowiedz><![CDATA[Czesc_tu_Spociak!]]></odpowiedz>
+			<odpowiedz><![CDATA[***czesc, tu Spociak!***]]></odpowiedz>
+			<odpowiedz><![CDATA[<u>Czesc, tu Spociak!<u>]]></odpowiedz>
+		</pytanie>
+                <pytanie poprawna_odpowiedz="4">
+			<tresc><![CDATA[Co należy zrobić, gdy dostaniemy mail od nieznajomego?]]></tresc>
+			<odpowiedz><![CDATA[Otworzyć i przeczytać]]></odpowiedz>
+			<odpowiedz><![CDATA[Przesłać dalej]]></odpowiedz>
+			<odpowiedz><![CDATA[Otworzyć, przeczytać i odpisać]]></odpowiedz>
+			<odpowiedz><![CDATA[Wyrzucić do kosza]]></odpowiedz>
+		</pytanie>
+                <pytanie poprawna_odpowiedz="3">
+			<tresc><![CDATA[Jak się zachować, gdy ktoś nas obraża w internecie?]]></tresc>
+			<odpowiedz><![CDATA[Odpłacić mu tym samym]]></odpowiedz>
+			<odpowiedz><![CDATA[Prosić, by przestał]]></odpowiedz>
+			<odpowiedz><![CDATA[Zignorować go]]></odpowiedz>
+			<odpowiedz><![CDATA[Powiedzieć o tym kolegom]]></odpowiedz>
+		</pytanie>
+	        <pytanie poprawna_odpowiedz="4">
+			<tresc><![CDATA[Jaki program należy koniecznie zainstalować na komputerze?]]></tresc>
+			<odpowiedz><![CDATA[Komunikator]]></odpowiedz>
+			<odpowiedz><![CDATA[Program do nagrywania płyt]]></odpowiedz>
+			<odpowiedz><![CDATA[Przeglądarkę internetową]]></odpowiedz>
+			<odpowiedz><![CDATA[Program antywirusowy]]></odpowiedz>
+		</pytanie>
+	        <pytanie poprawna_odpowiedz="3">
+			<tresc><![CDATA[Czym zajmuje się program antywirusowy?]]></tresc>
+			<odpowiedz><![CDATA[Blokowaniem znajomych na komunikatorze]]></odpowiedz>
+			<odpowiedz><![CDATA[Usuwaniem danych z komputera]]></odpowiedz>
+			<odpowiedz><![CDATA[Wykrywaniem i usuwaniem wirusów komputerowych ]]></odpowiedz>
+			<odpowiedz><![CDATA[Odtwarzaniem muzyki]]></odpowiedz>
+		</pytanie>
+	        <pytanie poprawna_odpowiedz="2">
+			<tresc><![CDATA[Gdzie najbezpieczniej przechowywać swoje hasła komputerowe?]]></tresc>
+			<odpowiedz><![CDATA[Na kartce przyklejonej do monitora]]></odpowiedz>
+			<odpowiedz><![CDATA[W głowie]]></odpowiedz>
+			<odpowiedz><![CDATA[Na pulpicie]]></odpowiedz>
+			<odpowiedz><![CDATA[w mailu]]></odpowiedz>
+		</pytanie>
+	        <pytanie poprawna_odpowiedz="1">
+			<tresc><![CDATA[Który z poniższych nicków jest najbezpieczniejszy?]]></tresc>
+			<odpowiedz><![CDATA[niezapominajka123]]></odpowiedz>
+			<odpowiedz><![CDATA[ania.kowalska]]></odpowiedz>
+			<odpowiedz><![CDATA[Ania1995]]></odpowiedz>
+			<odpowiedz><![CDATA[Ania12]]></odpowiedz>
+		</pytanie>
+                <pytanie poprawna_odpowiedz="3">
+			<tresc><![CDATA[Co nazywamy SPAMEM?]]></tresc>
+			<odpowiedz><![CDATA[Groźny wirus komputerowy]]></odpowiedz>
+			<odpowiedz><![CDATA[Numer komputera]]></odpowiedz>
+			<odpowiedz><![CDATA[Niechcianą wiadomość wsyłaną e-mailem]]></odpowiedz>
+			<odpowiedz><![CDATA[Program antywirusowy]]></odpowiedz>
+		</pytanie>
+	        <pytanie poprawna_odpowiedz="1">
+			<tresc><![CDATA[Co należy zrobić, gdy trafimy w internecie na stronę ze zdjęciami nie dla dzieci?]]></tresc>
+			<odpowiedz><![CDATA[Szybko zamknąć]]></odpowiedz>
+			<odpowiedz><![CDATA[Wysłać adres strony kolegom]]></odpowiedz>
+			<odpowiedz><![CDATA[Zapisać zdjęcia na dysku twardym]]></odpowiedz>
+			<odpowiedz><![CDATA[Uważnie obejrzeć]]></odpowiedz>
+		</pytanie>
+	        <pytanie poprawna_odpowiedz="4">
+			<tresc><![CDATA[Co to jest login?]]></tresc>
+			<odpowiedz><![CDATA[Imię kota z kreskówki]]></odpowiedz>
+			<odpowiedz><![CDATA[Rodzaj wirusa]]></odpowiedz>
+			<odpowiedz><![CDATA[Najnowszy typ komputera]]></odpowiedz>
+			<odpowiedz><![CDATA[Inaczej nick, internetowa ksywka]]></odpowiedz>
+		</pytanie>
+	        <pytanie poprawna_odpowiedz="4">
+			<tresc><![CDATA[Co może się stać, gdy zbyt długo będziemy korzystać z komputera?]]></tresc>
+			<odpowiedz><![CDATA[Będziemy bardzo mądrzy i inteligentni]]></odpowiedz>
+			<odpowiedz><![CDATA[Zdobędziemy wielu nowych znajomych]]></odpowiedz>
+			<odpowiedz><![CDATA[Nic się nie stanie]]></odpowiedz>
+			<odpowiedz><![CDATA[Możemy mieć bóle głowy i problemy z zaśnięciem]]></odpowiedz>
+		</pytanie>
+	        <pytanie poprawna_odpowiedz="3">
+			<tresc><![CDATA[Gdy pisze do nas Ania9, to co wiemy na 100% o tej osobie?]]></tresc>
+			<odpowiedz><![CDATA[Że ma na imię Ania]]></odpowiedz>
+			<odpowiedz><![CDATA[Że ma na imię Ania i ma 9 lat]]></odpowiedz>
+			<odpowiedz><![CDATA[Nic nie wiemy]]></odpowiedz>
+			<odpowiedz><![CDATA[Że jest dziewczynką]]></odpowiedz>
+                </pytanie>
+		<pytanie poprawna_odpowiedz="1">
+			<tresc><![CDATA[Czy zawsze możemy być pewni z kim rozmawiamy przez internet?]]></tresc>
+			<odpowiedz><![CDATA[Nie]]></odpowiedz>
+			<odpowiedz><![CDATA[Tak]]></odpowiedz>
+		</pytanie>
+	        <pytanie poprawna_odpowiedz="3">
+			<tresc><![CDATA[Co należy robić wg Netykiety?]]></tresc>
+			<odpowiedz><![CDATA[W internecie można robić co się chce]]></odpowiedz>
+			<odpowiedz><![CDATA[W internecie można być niemiłym tylko dla tych, którzy nas obrażają]]></odpowiedz>
+			<odpowiedz><![CDATA[W internecie nie należy obrażać nikogo]]></odpowiedz>
+                </pytanie>
+	        <pytanie poprawna_odpowiedz="2">
+			<tresc><![CDATA[Co to jest serwer?]]></tresc>
+			<odpowiedz><![CDATA[Urządzenie, na którym można grać w gry PC]]></odpowiedz>
+			<odpowiedz><![CDATA[Bardzo szybki komputer, którego między innymi można używać do przeglądania strony www.sieciaki.pl]]></odpowiedz>
+			<odpowiedz><![CDATA[Zbiór zasad kulturalnego i prawidłowego korzystania z internetu]]></odpowiedz>
+                        <odpowiedz><![CDATA[Tajne miejsce spotkań drużyny Sieciaków]]></odpowiedz>
+                </pytanie>
+		<pytanie poprawna_odpowiedz="1">
+			<tresc><![CDATA[Czy musimy aktualizować programy antywirusowe?]]></tresc>
+			<odpowiedz><![CDATA[Nie, ponieważ aktualizacje programu mogą pogorszyć jego działanie]]></odpowiedz>
+                        <odpowiedz><![CDATA[Nie musimy, ale czasem możemy]]></odpowiedz>
+			<odpowiedz><![CDATA[Tak, ponieważ tylko aktualizowane programy będą w pełni poprawnie działać]]></odpowiedz>
+                </pytanie>
+	        <pytanie poprawna_odpowiedz="2">
+			<tresc><![CDATA[Jak najlepiej spędzać wolny czas?]]></tresc>
+			<odpowiedz><![CDATA[Siedzieć godzinami przy komputerze]]></odpowiedz>
+			<odpowiedz><![CDATA[Korzystać z komputera w sposób rozsądny]]></odpowiedz>
+			<odpowiedz><![CDATA[Nigdy nie korzystać z komputera w wolnym czasie]]></odpowiedz>
+		</pytanie>
+	        <pytanie poprawna_odpowiedz="3">
+			<tresc><![CDATA[Jedna z zasad Netykiety brzmi:]]></tresc>
+			<odpowiedz><![CDATA[Mów, jeśli coś jest nie tak!]]></odpowiedz>
+			<odpowiedz><![CDATA[Używaj jak najwięcej emotikonek - uśmieszków, buziaczków, minek]]></odpowiedz>
+			<odpowiedz><![CDATA[Bez potrzeby nie pisz dużymi literami, gdyż oznaczają KRZYK]]></odpowiedz>
+                </pytanie>
+	        <pytanie poprawna_odpowiedz="1">
+			<tresc><![CDATA[Numer 116 111 powinniśmy znać, ponieważ:]]></tresc>
+			<odpowiedz><![CDATA[Jest to numer Telefonu Zaufania dla Dzieci i Młodzieży]]></odpowiedz>
+			<odpowiedz><![CDATA[Jest to numer telefonu na policję]]></odpowiedz>
+			<odpowiedz><![CDATA[Nie jest to numer, który powinniśmy znać]]></odpowiedz>
+                </pytanie>
+	        <pytanie poprawna_odpowiedz="2">
+			<tresc><![CDATA[Numer do Telefonu Zaufania dla Dzieci i Młodzieży to:]]></tresc>
+			<odpowiedz><![CDATA[800 100 100]]></odpowiedz>
+			<odpowiedz><![CDATA[116 111]]></odpowiedz>
+			<odpowiedz><![CDATA[999 lub 112]]></odpowiedz>
+                </pytanie>
+	        <pytanie poprawna_odpowiedz="2">
+			<tresc><![CDATA[Zakupy internetowe możemy robić:]]></tresc>
+			<odpowiedz><![CDATA[Na każdej aukcji internetowej, nie sprawdzając sprzedawcy]]></odpowiedz>
+			<odpowiedz><![CDATA[Jedynie za zgodą rodziców i w obecności osób dorosłych]]></odpowiedz>
+			<odpowiedz><![CDATA[Tylko raz w miesiącu]]></odpowiedz>
+		</pytanie>
+	</kategoria>
+	<kategoria typ="dziecko powyżej 12 lat">
+		<pytanie poprawna_odpowiedz="4">
+			<tresc><![CDATA[Którą z poniższych danych można bezpiecznie umieścić na swojej stronie internetowej?]]></tresc>
+			<odpowiedz><![CDATA[zdjęcie]]></odpowiedz>
+			<odpowiedz><![CDATA[imię i nazwisko]]></odpowiedz>
+			<odpowiedz><![CDATA[adres domowy]]></odpowiedz>
+			<odpowiedz><![CDATA[login]]></odpowiedz>
+		</pytanie>
+                <pytanie poprawna_odpowiedz="1">
+			<tresc><![CDATA[Czym nie zajmują się programy szpiegujące?]]></tresc>
+			<odpowiedz><![CDATA[kasowaniem plików z naszego komputera]]></odpowiedz>
+			<odpowiedz><![CDATA[wysyłaniem różnych informacji o nas bez naszej wiedzy]]></odpowiedz>
+			<odpowiedz><![CDATA[śledzeniem wpisywanych w systemie haseł ]]></odpowiedz>
+			<odpowiedz><![CDATA[ułatwianiem włamania do naszego kompuetra]]></odpowiedz>
+		</pytanie>
+                <pytanie poprawna_odpowiedz="3">
+			<tresc><![CDATA[W jaki sposób możemy na 100% ustalić wiek internauty?]]></tresc>
+			<odpowiedz><![CDATA[po numerze gg]]></odpowiedz>
+			<odpowiedz><![CDATA[po informacji na profilu]]></odpowiedz>
+			<odpowiedz><![CDATA[nie ma skutecznej metody]]></odpowiedz>
+			<odpowiedz><![CDATA[po numerze IP]]></odpowiedz>
+		</pytanie>
+                <pytanie poprawna_odpowiedz="2">
+			<tresc><![CDATA[Jak reagować na obraźliwe maile?]]></tresc>
+			<odpowiedz><![CDATA[przesyłać je dalej]]></odpowiedz>
+			<odpowiedz><![CDATA[nie odpowiadać, skasować wiadomość]]></odpowiedz>
+			<odpowiedz><![CDATA[odpisać grzecznie i poprosić o zaprzestanie wysyłania takich maili]]></odpowiedz>
+			<odpowiedz><![CDATA[odpisać, obrażając nadawcę maila]]></odpowiedz>
+		</pytanie>
+                <pytanie poprawna_odpowiedz="4">
+			<tresc><![CDATA[Który z programów nie zabezpiecza przed internetowymi zagrożeniami? ]]></tresc>
+			<odpowiedz><![CDATA[firewall]]></odpowiedz>
+			<odpowiedz><![CDATA[program antyszpiegowski]]></odpowiedz>
+			<odpowiedz><![CDATA[program antywirusowy]]></odpowiedz>
+			<odpowiedz><![CDATA[program do nagrywania płyt]]></odpowiedz>
+		</pytanie> 
+                <pytanie poprawna_odpowiedz="3">
+			<tresc><![CDATA[Mając zainstalowany program antywirusowy nie musimy:]]></tresc>
+			<odpowiedz><![CDATA[mieć uruchomionego stałego monitorowania]]></odpowiedz>
+			<odpowiedz><![CDATA[cyklicznie przeprowadzać skanowania systemu]]></odpowiedz>
+			<odpowiedz><![CDATA[instalować dla pewności drugiego programu]]></odpowiedz>
+			<odpowiedz><![CDATA[stale aktualizować bazy danych programu]]></odpowiedz>
+		</pytanie>
+                <pytanie poprawna_odpowiedz="1">
+			<tresc><![CDATA[Antywirus nie zajmuje się:]]></tresc>
+			<odpowiedz><![CDATA[przechowywaniem haseł]]></odpowiedz>
+			<odpowiedz><![CDATA[autoochorną komputera przed wirusami]]></odpowiedz>
+			<odpowiedz><![CDATA[blokowaniem skryptów]]></odpowiedz>
+			<odpowiedz><![CDATA[skanowaniem systemu w poszukiwaniu wirusów]]></odpowiedz>
+		</pytanie>
+                <pytanie poprawna_odpowiedz="1">
+			<tresc><![CDATA[Co to jest adware?]]></tresc>
+			<odpowiedz><![CDATA[program wyświetlający reklamy z modułami szpiegującymi]]></odpowiedz>
+			<odpowiedz><![CDATA[rodzaj wirusa]]></odpowiedz>
+			<odpowiedz><![CDATA[firewall]]></odpowiedz>
+			<odpowiedz><![CDATA[program przyspieszający działanie komputera]]></odpowiedz>
+		</pytanie>
+                <pytanie poprawna_odpowiedz="2">
+			<tresc><![CDATA[Bezpiecznie hasła powinny:]]></tresc>
+			<odpowiedz><![CDATA[być takie same do wszystkich serwisów]]></odpowiedz>
+			<odpowiedz><![CDATA[zawierać różnorodzne znaki, małe i duże litery oraz cyfry]]></odpowiedz>
+			<odpowiedz><![CDATA[być krótkie i łatwe do zapamiętania]]></odpowiedz>
+			<odpowiedz><![CDATA[być zapisane w miejscu widocznym dla wszystkich]]></odpowiedz>
+		</pytanie>
+                <pytanie poprawna_odpowiedz="2">
+			<tresc><![CDATA[Nasze internetowe hasła powinniśmy przechowywać:]]></tresc>
+			<odpowiedz><![CDATA[zapisane na kartce i przyklejone do monitora]]></odpowiedz>
+			<odpowiedz><![CDATA[w głowie]]></odpowiedz>
+			<odpowiedz><![CDATA[pod klawiaturą komputera]]></odpowiedz>
+			<odpowiedz><![CDATA[na pulpicie]]></odpowiedz>
+		</pytanie>
+                <pytanie poprawna_odpowiedz="1">
+			<tresc><![CDATA[Który z poniższych zapisów jest niezgodny z Netykietą?]]></tresc>
+			<odpowiedz><![CDATA[CZESC, TU AJPI!]]></odpowiedz>
+			<odpowiedz><![CDATA[***czesc, tu Ajpi!***]]></odpowiedz>
+			<odpowiedz><![CDATA[<u>Cześć tu Ajpi!</u>]]></odpowiedz>
+			<odpowiedz><![CDATA[Czesc_tu_Ajpi!]]></odpowiedz>
+		</pytanie>
+                <pytanie poprawna_odpowiedz="3">
+			<tresc><![CDATA[Aby ochronić się przed spamem, można:]]></tresc>
+			<odpowiedz><![CDATA[wpisać swój adres e-mail na stronie internetowej]]></odpowiedz>
+			<odpowiedz><![CDATA[wpisać swój e-mail i pozamieniać kolejność liter]]></odpowiedz>
+			<odpowiedz><![CDATA[w adresie e-mail zamiast znaczka "@" użyć słowa "at"]]></odpowiedz>
+			<odpowiedz><![CDATA[odpisać spamerowi, żeby przestał spamować]]></odpowiedz>
+		</pytanie>
+		<pytanie poprawna_odpowiedz="4">
+			<tresc><![CDATA[Który z poniższych loginów jest najbezpieczniejszy?]]></tresc>
+			<odpowiedz><![CDATA[tomek12]]></odpowiedz>
+			<odpowiedz><![CDATA[tomek1993]]></odpowiedz>
+			<odpowiedz><![CDATA[tomasz.nowak]]></odpowiedz>
+			<odpowiedz><![CDATA[T-rex123]]></odpowiedz>
+		</pytanie>
+		<pytanie poprawna_odpowiedz="4">
+			<tresc><![CDATA[Gdy pisze do nas Adam11 to, co wiemy o tej osobie?]]></tresc>
+			<odpowiedz><![CDATA[że ma 11 lat]]></odpowiedz>
+			<odpowiedz><![CDATA[że ma na imię Adam i ma 11 lat]]></odpowiedz>
+			<odpowiedz><![CDATA[że jest chłopcem]]></odpowiedz>
+			<odpowiedz><![CDATA[nic nie wiemy na 100%]]></odpowiedz>
+                </pytanie>
+		<pytanie poprawna_odpowiedz="3">
+			<tresc><![CDATA[Co to jest procesor?]]></tresc>
+			<odpowiedz><![CDATA[niechciana wiadomość wysyłana e-mailem]]></odpowiedz>
+			<odpowiedz><![CDATA[urządzenie służące do łączenia ze sobą sieci komputerowych]]></odpowiedz>
+			<odpowiedz><![CDATA[mózg komputera, który nadzoruje i synchronizuje pracę wszystkich urządzeń w komputerze]]></odpowiedz>
+                </pytanie>
+		<pytanie poprawna_odpowiedz="1">
+			<tresc><![CDATA[Co to jest router?]]></tresc>
+			<odpowiedz><![CDATA[urządzenie służące do łączenia ze sobą sieci komputerowych]]></odpowiedz>
+			<odpowiedz><![CDATA[program antywirusowy]]></odpowiedz>
+                        <odpowiedz><![CDATA[inna nazwa kamery inetrnetowej]]></odpowiedz>
+                </pytanie>
+		<pytanie poprawna_odpowiedz="1">
+			<tresc><![CDATA[Które z poniższych nie jest działaniem programów szpiegujących?]]></tresc>
+			<odpowiedz><![CDATA[kasowanie plików z naszego komputera]]></odpowiedz>
+			<odpowiedz><![CDATA[śledzenie wpisywanych w systemie haseł]]></odpowiedz>
+			<odpowiedz><![CDATA[wysyłanie różnych informacji o nas bez naszej wiedzy]]></odpowiedz>
+			<odpowiedz><![CDATA[umożliwienie włamania do naszego komputera]]></odpowiedz>
+                </pytanie>
+		<pytanie poprawna_odpowiedz="1">
+			<tresc><![CDATA[Ściąganie piosenek, gier, filmów czy programów komputerowych z internetu to:]]></tresc>
+			<odpowiedz><![CDATA[przestępstwo, gdyż rozpowszechnianie i zwielokrotnianie plików w sieci jest nielegalne]]></odpowiedz>
+			<odpowiedz><![CDATA[fajna sprawa i można to robić bez ograniczeń]]></odpowiedz>
+				
+                </pytanie>
+	        <pytanie poprawna_odpowiedz="1">
+			<tresc><![CDATA[Numer 116 111 powinniśmy znać, ponieważ:]]></tresc>
+			<odpowiedz><![CDATA[Jest to numer Telefonu Zaufania dla Dzieci i Młodzieży]]></odpowiedz>
+			<odpowiedz><![CDATA[Jest to numer telefonu na policję]]></odpowiedz>
+			<odpowiedz><![CDATA[Nie jest to numer, który powinniśmy znać]]></odpowiedz>
+                </pytanie>
+	        <pytanie poprawna_odpowiedz="2">
+			<tresc><![CDATA[Numer do Telefonu Zaufania dla Dzieci i Młodzieży to:]]></tresc>
+			<odpowiedz><![CDATA[800 100 100]]></odpowiedz>
+			<odpowiedz><![CDATA[116 111]]></odpowiedz>
+			<odpowiedz><![CDATA[999 lub 112]]></odpowiedz>
+                </pytanie>
+	        <pytanie poprawna_odpowiedz="3">
+			<tresc><![CDATA[W jakich godzinach możesz zadzwonić do Telefonu Zaufania dla dzieci i młodzieży 116 111?]]></tresc>
+			<odpowiedz><![CDATA[8.00 – 16.00]]></odpowiedz>
+			<odpowiedz><![CDATA[12.00 – 18.00]]></odpowiedz>
+			<odpowiedz><![CDATA[12.00 – 22.00]]></odpowiedz>
+                </pytanie>
+                <pytanie poprawna_odpowiedz="2">
+			<tresc><![CDATA[Hejtować to znaczy:]]></tresc>
+			<odpowiedz><![CDATA[dyskutować z innymi internautami]]></odpowiedz>
+			<odpowiedz><![CDATA[obrażać innych w internecie]]></odpowiedz>
+			<odpowiedz><![CDATA[poznawać nowe osoby w internecie]]></odpowiedz>
+                </pytanie>
+                <pytanie poprawna_odpowiedz="3">
+			<tresc><![CDATA[Obraźliwych komentarzy w internecie nie powinno się:]]></tresc>
+			<odpowiedz><![CDATA[udostępniać dalej]]></odpowiedz>
+			<odpowiedz><![CDATA[lajkować]]></odpowiedz>
+			<odpowiedz><![CDATA[ani udostępniać, ani lajkować]]></odpowiedz>
+                </pytanie>                
+                <pytanie poprawna_odpowiedz="3">
+			<tresc><![CDATA[Jeśli ktoś Cię obraża w internecie:]]></tresc>
+			<odpowiedz><![CDATA[obrażasz w rewanżu jego rodzinę]]></odpowiedz>
+			<odpowiedz><![CDATA[udajesz, że nic się nie dzieje ]]></odpowiedz>
+			<odpowiedz><![CDATA[zgłaszasz obraźliwy post do administratora ]]></odpowiedz>
+                </pytanie>                
+<pytanie poprawna_odpowiedz="3">
+			<tresc><![CDATA[Co zrobić, jeśli ktoś obraźliwie komentuje zdjęcia Twojej koleżanki:]]></tresc>
+			<odpowiedz><![CDATA[lajkujesz komentarze hejtera i dopisujesz swoje]]></odpowiedz>
+			<odpowiedz><![CDATA[nic nie robisz, to nie Twoja sprawa]]></odpowiedz>
+			<odpowiedz><![CDATA[informujesz o zdarzeniu osobę dorosłą]]></odpowiedz>
+                </pytanie>                
+<pytanie poprawna_odpowiedz="2">
+			<tresc><![CDATA[Jaki komentarzy nie jest hejtem (obraźliwym komentarzem):]]></tresc>
+			<odpowiedz><![CDATA[chomik ma więcej talentu niż on]]></odpowiedz>
+			<odpowiedz><![CDATA[nie podoba mi się ta piosenka, nie lubię takiej muzyki]]></odpowiedz>
+			<odpowiedz><![CDATA[obydwa są obraźliwe]]></odpowiedz>
+                </pytanie>                
+<pytanie poprawna_odpowiedz="2">
+			<tresc><![CDATA[Hejter to ktoś:]]></tresc>
+			<odpowiedz><![CDATA[kto lubi wdawać się w dyskusję z innymi internautami]]></odpowiedz>
+			<odpowiedz><![CDATA[obraża innych w sieci]]></odpowiedz>
+			<odpowiedz><![CDATA[kogo inni ciągle obrażają]]></odpowiedz>
+                </pytanie>                
+<pytanie poprawna_odpowiedz="2">
+			<tresc><![CDATA[Jesteś obrażany w internecie – co możesz zrobić?]]></tresc>
+			<odpowiedz><![CDATA[przestajesz korzystać z internetu]]></odpowiedz>
+			<odpowiedz><![CDATA[szukasz pomocy: rozmawiasz z osobą dorosłą albo dzwonisz do Telefonu Zaufania dla Dzieci i Młodzieży 116 111]]></odpowiedz>
+			<odpowiedz><![CDATA[sam zaczynasz hejtować innych internautów]]></odpowiedz>
+                </pytanie>                
+<pytanie poprawna_odpowiedz="2">
+			<tresc><![CDATA[Twoja koleżanka obraża innych w sieci:]]></tresc>
+			<odpowiedz><![CDATA[jeśli nie dotyczy to mnie –  nie reaguję]]></odpowiedz>
+			<odpowiedz><![CDATA[rozmawiam z nią, a jeśli to nie pomaga, to zgłaszam komentarze za pomocą odpowiednich narzędzi]]></odpowiedz>
+			<odpowiedz><![CDATA[lajkuję te komentarze, które uważam za zabawne]]></odpowiedz>
+                </pytanie>                
+<pytanie poprawna_odpowiedz="2">
+			<tresc><![CDATA[Twoja koleżanka tworzy memy obrażające Waszych nauczycieli:]]></tresc>
+			<odpowiedz><![CDATA[udostępniasz je na swoim profilu]]></odpowiedz>
+			<odpowiedz><![CDATA[mówisz jej, że nie podoba Ci się jej zachowanie]]></odpowiedz>
+			<odpowiedz><![CDATA[lajkujesz je]]></odpowiedz>
+                </pytanie>                
+<pytanie poprawna_odpowiedz="3">
+			<tresc><![CDATA[Hejt to:]]></tresc>
+			<odpowiedz><![CDATA[obraźliwe komentarze]]></odpowiedz>
+			<odpowiedz><![CDATA[obraźliwe zdjęcia i filmy]]></odpowiedz>
+			<odpowiedz><![CDATA[obraźliwe komentarze, zdjęcia i filmy]]></odpowiedz>
+                </pytanie>                
+<pytanie poprawna_odpowiedz="2">
+			<tresc><![CDATA[Nie zgadzasz się z kimś na forum:]]></tresc>
+			<odpowiedz><![CDATA[hejtujesz taką osobę]]></odpowiedz>
+			<odpowiedz><![CDATA[kulturalnie wyrażasz swoje zdanie]]></odpowiedz>
+			<odpowiedz><![CDATA[robisz wszystko, by taki użytkownik został usunięty z forum]]></odpowiedz>
+                </pytanie>                
+<pytanie poprawna_odpowiedz="2">
+			<tresc><![CDATA[Osoba, która obraża w sieci:]]></tresc>
+			<odpowiedz><![CDATA[jest bezkarna]]></odpowiedz>
+			<odpowiedz><![CDATA[może mieć problem z prawem]]></odpowiedz>
+			<odpowiedz><![CDATA[jest całkowicie anonimowa]]></odpowiedz>
+                </pytanie>                
+<pytanie poprawna_odpowiedz="2">
+			<tresc><![CDATA[Twoim hobby jest rysowanie. Wyobraź sobie, że jeden z Twoich udanych rysunków opublikowanych w internecie został przez kogoś zhejtowany. Co najlepiej zrobić?]]></tresc>
+			<odpowiedz><![CDATA[usunąć rysunek, by uniknąć hejtu]]></odpowiedz>
+			<odpowiedz><![CDATA[nie przejmować się i dalej publikować swoje prace]]></odpowiedz>
+			<odpowiedz><![CDATA[nie publikować już swoich rysunków w internecie]]></odpowiedz>
+                </pytanie>
+<pytanie poprawna_odpowiedz="3">
+			<tresc><![CDATA[Hejterskie komentarze należy zgłaszać gdy:]]></tresc>
+			<odpowiedz><![CDATA[obrażają mnie]]></odpowiedz>
+			<odpowiedz><![CDATA[obrażają mnie lub osoby, które znam]]></odpowiedz>
+			<odpowiedz><![CDATA[obrażają kogokolwiek]]></odpowiedz>
+                </pytanie>  
+	</kategoria>
+</sieciomat>

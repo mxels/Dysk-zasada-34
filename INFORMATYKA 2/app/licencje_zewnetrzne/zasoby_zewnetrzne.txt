@@ -1,0 +1,93 @@
+Aplikacja używa następujących globalnie udostępnionych zasobów:
+
+frameworki i biblioteki kodów:
+
+tytuł: "View Section & Popup Manager", autor: Tomasz Łuczyński (https://github.com/tluczyns/vspm), licencja MIT (https://opensource.org/licenses/MIT)
+
+tytuł: "Tweener - Transition controller for movieclips, sounds, textfields and other objects", autorzy: Zeh Fernando, Nate Chatellier, Arthur Debert, Francis Turmel (http://hosted.zeh.com.br/tweener/), licencja MIT (https://opensource.org/licenses/MIT)
+	
+tytuł "PNGEncoder2", autorzy: Adobe Systems Incorporated, Pimm Hogeling and Edo Rivai, Cameron Desrochers, licencja: 
+	/*
+	Copyright (c) 2008, Adobe Systems Incorporated
+	Copyright (c) 2011, Pimm Hogeling and Edo Rivai
+	Copyright (c) 2011-2015, Cameron Desrochers
+	All rights reserved.
+	Redistribution and use in source and binary forms, with or without 
+	modification, are permitted provided that the following conditions are
+	met:
+	* Redistributions of source code must retain the above copyright notice, 
+	this list of conditions and the following disclaimer.
+	* Redistributions in binary form must reproduce the above copyright
+	notice, this list of conditions and the following disclaimer in the 
+	documentation and/or other materials provided with the distribution.
+	* Neither the name of Adobe Systems Incorporated nor the names of its 
+	contributors may be used to endorse or promote products derived from 
+	this software without specific prior written permission.
+	THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS
+	IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
+	THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+	PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR 
+	CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+	EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+	PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+	PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+	LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+	NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+	SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+*/
+
+tytuł "AESKey", autor: Henri Torgemane (http://crypto.hurlant.com/), licencja BSD: 
+/*
+ * Copyright (c) 2007 Henri Torgemane
+ * All Rights Reserved.
+ *
+ * BigInteger, RSA, Random and ARC4 are derivative works of the jsbn library
+ * (http://www-cs-students.stanford.edu/~tjw/jsbn/)
+ * The jsbn library is Copyright (c) 2003-2005  Tom Wu (tjw@cs.Stanford.EDU)
+ *
+ * MD5, SHA1, and SHA256 are derivative works (http://pajhome.org.uk/crypt/md5/)
+ * Those are Copyright (c) 1998-2002 Paul Johnston & Contributors (paj@pajhome.org.uk)
+ *
+ * SHA256 is a derivative work of jsSHA2 (http://anmar.eu.org/projects/jssha2/)
+ * jsSHA2 is Copyright (c) 2003-2004 Angel Marin (anmar@gmx.net)
+ *
+ * AESKey is a derivative work of aestable.c (http://www.geocities.com/malbrain/aestable_c.html)
+ * aestable.c is Copyright (c) Karl Malbrain (malbrain@yahoo.com)
+ *
+ * BlowFishKey, DESKey and TripeDESKey are derivative works of the Bouncy Castle Crypto Package (http://www.bouncycastle.org)
+ * Those are Copyright (c) 2000-2004 The Legion Of The Bouncy Castle
+ *
+ * Base64 is copyright (c) 2006 Steve Webster (http://dynamicflash.com/goodies/base64)
+ *
+ * Redistribution and use in source and binary forms, with or without modification, 
+ * are permitted provided that the following conditions are met:
+ *
+ * Redistributions of source code must retain the above copyright notice, this list 
+ * of conditions and the following disclaimer. Redistributions in binary form must 
+ * reproduce the above copyright notice, this list of conditions and the following 
+ * disclaimer in the documentation and/or other materials provided with the distribution.
+ *
+ * Neither the name of the author nor the names of its contributors may be used to endorse
+ * or promote products derived from this software without specific prior written permission.
+ *
+ * THE SOFTWARE IS PROVIDED "AS-IS" AND WITHOUT WARRANTY OF ANY KIND, 
+ * EXPRESS, IMPLIED OR OTHERWISE, INCLUDING WITHOUT LIMITATION, ANY 
+ * WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.  
+ *
+ * IN NO EVENT SHALL TOM WU BE LIABLE FOR ANY SPECIAL, INCIDENTAL,
+ * INDIRECT OR CONSEQUENTIAL DAMAGES OF ANY KIND, OR ANY DAMAGES WHATSOEVER
+ * RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER OR NOT ADVISED OF
+ * THE POSSIBILITY OF DAMAGE, AND ON ANY THEORY OF LIABILITY, ARISING OUT
+ * OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+ *
+ */
+
+
+dźwięki:
+
+tytuł: "Menu screen mouse over", autor: DrMinky (https://www.freesound.org/people/DrMinky/sounds/166186/), licencja CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+tytuł: "musicalwinds_new.wav", autor: CosmicD (https://www.freesound.org/people/CosmicD/sounds/33506/), licencja CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+tytuł: "Computer Sound", autor: GowlerMusic (https://freesound.org/people/GowlerMusic/sounds/317746/), licencja CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+tytuł: "opening_closing_the_window.wav", autor: ondrosik (https://freesound.org/people/ondrosik/sounds/166781/), licencja CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+tytuł: "Sound Effects: Jaw Harp.wav", autor: shortshorts (https://freesound.org/people/shortshorts/sounds/370706/), licencja CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+	

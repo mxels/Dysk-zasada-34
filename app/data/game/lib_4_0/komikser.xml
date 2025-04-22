@@ -1,0 +1,85 @@
+﻿<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<XML>
+	<TLO>
+		<ITEM url="lib_4_0/tlo/k3cd_7_tlo_gory.swf" thmb="lib_4_0/tlo/k3cd_7_tlo_gory_thumb.swf" />
+		<ITEM url="lib_4_0/tlo/k3cd_7_tlo_klasa.swf" thmb="lib_4_0/tlo/k3cd_7_tlo_klasa_thumb.swf" />
+		<ITEM url="lib_4_0/tlo/k3cd_7_tlo_kuchnia.swf" thmb="lib_4_0/tlo/k3cd_7_tlo_kuchnia_thumb.swf" />
+		<ITEM url="lib_4_0/tlo/k3cd_7_tlo_morze.swf" thmb="lib_4_0/tlo/k3cd_7_tlo_morze_thumb.swf" />
+		<ITEM url="lib_4_0/tlo/k3cd_7_tlo_park.swf" thmb="lib_4_0/tlo/k3cd_7_tlo_park_thumb.swf" />
+		<ITEM url="lib_4_0/tlo/k3cd_7_tlo_pokoj.swf" thmb="lib_4_0/tlo/k3cd_7_tlo_pokoj_thumb.swf" />
+		<ITEM url="lib_4_0/tlo/k3cd_7_tlo_przedpokoj.swf" thmb="lib_4_0/tlo/k3cd_7_tlo_przedpokoj_thumb.swf" />
+		<ITEM url="lib_4_0/tlo/k3cd_7_tlo_salon.swf" thmb="lib_4_0/tlo/k3cd_7_tlo_salon_thumb.swf" />
+		<ITEM url="lib_4_0/tlo/k3cd_7_tlo_szatnia.swf" thmb="lib_4_0/tlo/k3cd_7_tlo_szatnia_thumb.swf" />
+		<ITEM url="lib_4_0/tlo/k3cd_7_tlo_szkola.swf" thmb="lib_4_0/tlo/k3cd_7_tlo_szkola_thumb.swf" />
+	</TLO>
+	<POSTACIE>
+		<ITEM url="lib_4_0/postacie/k3cd_7_chlopiec_A_przod_A.swf" thmb="lib_4_0/postacie/k3cd_7_chlopiec_A_przod_A_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_chlopiec_A_przod_B.swf" thmb="lib_4_0/postacie/k3cd_7_chlopiec_A_przod_B_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_chlopiec_A_przod_C.swf" thmb="lib_4_0/postacie/k3cd_7_chlopiec_A_przod_C_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_chlopiec_A_bok_A.swf" thmb="lib_4_0/postacie/k3cd_7_chlopiec_A_bok_A_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_chlopiec_A_bok_B.swf" thmb="lib_4_0/postacie/k3cd_7_chlopiec_A_bok_B_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_chlopiec_A_bok_C.swf" thmb="lib_4_0/postacie/k3cd_7_chlopiec_A_bok_C_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_chlopiec_A_tyl_A.swf" thmb="lib_4_0/postacie/k3cd_7_chlopiec_A_tyl_A_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_chlopiec_A_tyl_B.swf" thmb="lib_4_0/postacie/k3cd_7_chlopiec_A_tyl_B_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_chlopiec_A_tyl_C.swf" thmb="lib_4_0/postacie/k3cd_7_chlopiec_A_tyl_C_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_chlopiec_B_przod_A.swf" thmb="lib_4_0/postacie/k3cd_7_chlopiec_B_przod_A_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_chlopiec_B_przod_B.swf" thmb="lib_4_0/postacie/k3cd_7_chlopiec_B_przod_B_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_chlopiec_B_przod_C.swf" thmb="lib_4_0/postacie/k3cd_7_chlopiec_B_przod_C_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_chlopiec_B_bok_A.swf" thmb="lib_4_0/postacie/k3cd_7_chlopiec_B_bok_A_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_chlopiec_B_bok_B.swf" thmb="lib_4_0/postacie/k3cd_7_chlopiec_B_bok_B_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_chlopiec_B_bok_C.swf" thmb="lib_4_0/postacie/k3cd_7_chlopiec_B_bok_C_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_chlopiec_B_tyl_A.swf" thmb="lib_4_0/postacie/k3cd_7_chlopiec_B_tyl_A_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_chlopiec_B_tyl_B.swf" thmb="lib_4_0/postacie/k3cd_7_chlopiec_B_tyl_B_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_chlopiec_B_tyl_C.swf" thmb="lib_4_0/postacie/k3cd_7_chlopiec_B_tyl_C_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dorosly_A_przod_A.swf" thmb="lib_4_0/postacie/k3cd_7_dorosly_A_przod_A_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dorosly_A_przod_B.swf" thmb="lib_4_0/postacie/k3cd_7_dorosly_A_przod_B_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dorosly_A_przod_C.swf" thmb="lib_4_0/postacie/k3cd_7_dorosly_A_przod_C_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dorosly_A_bok_A.swf" thmb="lib_4_0/postacie/k3cd_7_dorosly_A_bok_A_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dorosly_A_bok_B.swf" thmb="lib_4_0/postacie/k3cd_7_dorosly_A_bok_B_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dorosly_A_bok_C.swf" thmb="lib_4_0/postacie/k3cd_7_dorosly_A_bok_C_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dorosly_A_tyl_A.swf" thmb="lib_4_0/postacie/k3cd_7_dorosly_A_tyl_A_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dorosly_A_tyl_B.swf" thmb="lib_4_0/postacie/k3cd_7_dorosly_A_tyl_B_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dorosly_A_tyl_C.swf" thmb="lib_4_0/postacie/k3cd_7_dorosly_A_tyl_C_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dorosly_B_przod_A.swf" thmb="lib_4_0/postacie/k3cd_7_dorosly_B_przod_A_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dorosly_B_przod_B.swf" thmb="lib_4_0/postacie/k3cd_7_dorosly_B_przod_B_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dorosly_B_przod_C.swf" thmb="lib_4_0/postacie/k3cd_7_dorosly_B_przod_C_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dorosly_B_bok_A.swf" thmb="lib_4_0/postacie/k3cd_7_dorosly_B_bok_A_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dorosly_B_bok_B.swf" thmb="lib_4_0/postacie/k3cd_7_dorosly_B_bok_B_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dorosly_B_bok_C.swf" thmb="lib_4_0/postacie/k3cd_7_dorosly_B_bok_C_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dorosly_B_tyl_A.swf" thmb="lib_4_0/postacie/k3cd_7_dorosly_B_tyl_A_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dorosly_B_tyl_B.swf" thmb="lib_4_0/postacie/k3cd_7_dorosly_B_tyl_B_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dorosly_B_tyl_C.swf" thmb="lib_4_0/postacie/k3cd_7_dorosly_B_tyl_C_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dziewczynka_A_przod_A.swf" thmb="lib_4_0/postacie/k3cd_7_dziewczynka_A_przod_A_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dziewczynka_A_przod_B.swf" thmb="lib_4_0/postacie/k3cd_7_dziewczynka_A_przod_B_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dziewczynka_A_przod_C.swf" thmb="lib_4_0/postacie/k3cd_7_dziewczynka_A_przod_C_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dziewczynka_A_bok_A.swf" thmb="lib_4_0/postacie/k3cd_7_dziewczynka_A_bok_A_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dziewczynka_A_bok_B.swf" thmb="lib_4_0/postacie/k3cd_7_dziewczynka_A_bok_B_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dziewczynka_A_bok_C.swf" thmb="lib_4_0/postacie/k3cd_7_dziewczynka_A_bok_C_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dziewczynka_A_tyl_A.swf" thmb="lib_4_0/postacie/k3cd_7_dziewczynka_A_tyl_A_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dziewczynka_A_tyl_B.swf" thmb="lib_4_0/postacie/k3cd_7_dziewczynka_A_tyl_B_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dziewczynka_A_tyl_C.swf" thmb="lib_4_0/postacie/k3cd_7_dziewczynka_A_tyl_C_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dziewczynka_B_przod_A.swf" thmb="lib_4_0/postacie/k3cd_7_dziewczynka_B_przod_A_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dziewczynka_B_przod_B.swf" thmb="lib_4_0/postacie/k3cd_7_dziewczynka_B_przod_B_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dziewczynka_B_przod_C.swf" thmb="lib_4_0/postacie/k3cd_7_dziewczynka_B_przod_C_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dziewczynka_B_bok_A.swf" thmb="lib_4_0/postacie/k3cd_7_dziewczynka_B_bok_A_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dziewczynka_B_bok_B.swf" thmb="lib_4_0/postacie/k3cd_7_dziewczynka_B_bok_B_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dziewczynka_B_bok_C.swf" thmb="lib_4_0/postacie/k3cd_7_dziewczynka_B_bok_C_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dziewczynka_B_tyl_A.swf" thmb="lib_4_0/postacie/k3cd_7_dziewczynka_B_tyl_A_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dziewczynka_B_tyl_B.swf" thmb="lib_4_0/postacie/k3cd_7_dziewczynka_B_tyl_B_thumb.swf"/>
+		<ITEM url="lib_4_0/postacie/k3cd_7_dziewczynka_B_tyl_C.swf" thmb="lib_4_0/postacie/k3cd_7_dziewczynka_B_tyl_C_thumb.swf"/>
+	</POSTACIE>
+	<CHMURKI>
+		<ITEM url="lib_4_0/chmurki/balloon01.swf" thmb="lib_4_0/chmurki/balloon01_thumb.swf"/>
+		<ITEM url="lib_4_0/chmurki/balloon02.swf" thmb="lib_4_0/chmurki/balloon02_thumb.swf"/>
+		<ITEM url="lib_4_0/chmurki/balloon03.swf" thmb="lib_4_0/chmurki/balloon03_thumb.swf"/>
+		<ITEM url="lib_4_0/chmurki/balloon04.swf" thmb="lib_4_0/chmurki/balloon04_thumb.swf"/>
+		<ITEM url="lib_4_0/chmurki/balloon05.swf" thmb="lib_4_0/chmurki/balloon05_thumb.swf"/>
+		<ITEM url="lib_4_0/chmurki/balloon06.swf" thmb="lib_4_0/chmurki/balloon06_thumb.swf"/>
+		<ITEM url="lib_4_0/chmurki/balloon07.swf" thmb="lib_4_0/chmurki/balloon07_thumb.swf"/>	
+		<ITEM url="lib_4_0/chmurki/balloon08.swf" thmb="lib_4_0/chmurki/balloon08_thumb.swf"/>	
+		<ITEM url="lib_4_0/chmurki/balloon09.swf" thmb="lib_4_0/chmurki/balloon09_thumb.swf"/>	
+		<ITEM url="lib_4_0/chmurki/balloon10.swf" thmb="lib_4_0/chmurki/balloon10_thumb.swf"/>
+		<ITEM url="lib_4_0/chmurki/balloon11.swf" thmb="lib_4_0/chmurki/balloon11_thumb.swf"/>	
+		<ITEM url="lib_4_0/chmurki/balloon12.swf" thmb="lib_4_0/chmurki/balloon12_thumb.swf"/>
+	</CHMURKI>
+</XML>
