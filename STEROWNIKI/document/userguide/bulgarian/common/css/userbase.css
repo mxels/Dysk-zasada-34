@@ -1,0 +1,164 @@
+@charset "utf-8";
+/*-----------------------------------------------
+bodyスタイル
+----------------------------------------------- */
+body img {
+	vertical-align:bottom;
+}
+html {
+	padding:0;
+	margin:0;
+	background-color:#ededee;
+
+}
+body {
+	text-align:center;
+	padding:0;
+	margin:0;
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	line-height:1.5;
+	color: #565656;
+}
+#body {
+	padding:0;
+	font-size:100%;
+}
+
+.zone .inner{
+	width: 510px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:left;
+}
+
+a{ color:#0033cc; text-decoration:none;}
+a:hover{ text-decoration:underline;}
+
+/* ＋＋＋＋＋＋ header ＋＋＋＋＋＋ */
+#header{
+	background-color:#004A9A;
+	color:#FFF;
+	padding-bottom:8px;
+	border-bottom:solid 1px #ffffff;
+}
+
+#header #title{
+	float:left;
+	margin:0px;
+	margin-top:42px;
+	margin-left:15px;
+	font-size:2.2em;
+	width:310px;
+}
+#header #logo{
+	float:right;
+	margin-top:10px;
+	margin-right:14px;
+}
+#header #version{ text-align:right; padding-right:22px;}
+#header #version ul{
+	margin:0;
+	display:inline-block;
+	font-size:11px;
+	text-align:left;
+}
+#header #version li{
+	list-style:none;
+	text-align: right;
+}
+
+/* ＋＋＋＋＋＋ main ＋＋＋＋＋＋ */
+
+#main {
+	background-image: url(../images/shadow.png);
+	background-repeat: repeat-x;
+	background-position: left top;
+	padding:18px
+}
+#main ul{ margin:0; margin-left:18px;	margin-right:14px;}
+#main li{
+	list-style:none;
+	background-image: url(../images/list_marker.png);
+	background-repeat: no-repeat;
+	background-position: left 32px;
+	padding-left:42px;
+
+}
+
+#main li a{
+	display:block;
+	background-image: url(../images/paper.jpg);
+	background-repeat: no-repeat;
+	background-position: right 3px;
+	font-size:1.8em;
+	font-weight:bold;
+	padding:1.2em 74px 1.2em 0px;
+
+}
+
+#main li a.imageNone{
+	background-image:none;
+	padding-right:0;
+	zoom: 1;
+}
+
+#main li .square{
+	background-image: url(../images/list_marker2.png);
+	background-repeat: no-repeat;
+	background-position: left 5px;
+	padding-left:10px;
+
+}
+
+#main .txtLevel2{
+	display:block;
+	font-size:0.7em;
+}
+#main .txtLevel3{
+	display:block;
+	font-size:0.5em;
+}
+#main .ml15{
+	margin-left:15px;
+}
+#main .ml30{
+	margin-left:30px;
+}
+#main .mb10{
+	margin-bottom:10px;
+}
+
+/* ＋＋＋＋＋＋ footer ＋＋＋＋＋＋ */
+
+#footer {
+	margin-top:2em;
+
+}
+
+#footer p {
+	text-align: center;
+}
+
+/*-----------------------------------------------
+CSSハック
+----------------------------------------------- */
+.clearfix:after,
+.main .block:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+
+.clearfix {
+	display: inline-block;
+}
+/* Hides from IE-mac \*/
+* html .clearfix{
+	height: 1%;
+}
+.clearfix{
+	display: block;
+}
+/* End hide from IE-mac */

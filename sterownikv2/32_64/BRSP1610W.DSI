@@ -1,0 +1,25 @@
+[DSIInfo]
+DSM_Signature=BRDSM110
+SeriesSettingFile=BRPRM14A.DSI
+LanguageInfo=ja-JP,zh-CN,zh-TW,en-CN
+[FileList]
+Readback=BROP1610W.INI
+Init=BRDP1610W.DAT
+ExInit=BREP1610W.DAT
+[DriverInfo]
+ModelName=DCP-1610W series
+ModelNameForReadback=Brother DCP-1610W series
+DriverType=1211
+GenuineUrl=http://update.brother.co.jp/genuine/redirect/index.aspx?model=dcp-1610w&country=%s&gengo=%s
+SolutionCenterModelName=mfc549
+[DriverInfo_ja-JP]
+CreativeCenterButton=0
+[Capability_ja-JP]
+PaperSize=ISOA4,NorthAmericaLetter,NorthAmericaLegal,ISOA5,ISOA5LongEdge,JISB5,ISOA3,JISB4,CustomMediaSize
+PrintProfileIcon=STAR_ICON,TEXTDOC_ICON,MONODOC_ICON,COLORDOC_ICON,FINE_ICON,PALE_ICON,DUPLEX_ICON,PAPERSAVE_ICON,BOOKLET_ICON,ENVELOPE_ICON,JPN_ENVELOPE_ICON,HAGAKIADDRESS_ICON,NENGAADDRESS_ICON,INKJETHAGAKI_ICON,PHOTOHAGAKI_ICON,PHOTO_ICON,GLOSSY_ICON,LABEL_ICON,LABELPRINT_ICON,OTHER_ICON
+[Capability_zh-CN]
+PaperSize=ISOA4,NorthAmericaLetter,NorthAmericaLegal,NorthAmericaExecutive,ISOA5,ISOA5LongEdge,ISOB5Envelope,16K_195x270mm,16K_184x260mm,16K_197x273mm,JISB5,OtherMetricFolio,ISOA3,JISB4,NorthAmericaTabloid,CustomMediaSize
+[Capability_zh-TW]
+PaperSize=ISOA4,NorthAmericaLetter,NorthAmericaLegal,NorthAmericaExecutive,ISOA5,ISOA5LongEdge,ISOB5Envelope,JISB5,OtherMetricFolio,270mmPaper,ISOA3,JISB4,NorthAmericaTabloid,CustomMediaSize
+[Capability_en-CN]
+PaperSize=ISOA4,NorthAmericaLetter,NorthAmericaLegal,NorthAmericaExecutive,ISOA5,ISOA5LongEdge,ISOB5Envelope,16K_195x270mm,16K_184x260mm,16K_197x273mm,JISB5,OtherMetricFolio,270mmPaper,ISOA3,JISB4,NorthAmericaTabloid,CustomMediaSize
